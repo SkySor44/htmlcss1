@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css?family=Cabin');
+
+body {
+    background: url('http://alcef.com/app/libs/vendor/img/intro-bg.jpg') no-repeat center;
+    background-size: cover;
+    height: 50vh;
+    width: 100vw;
+}
+
+.start_bootstrap {
+    float: left;
+    margin: 20px 120px;
+    font-size: 20px;
+    font-weight: 900;
+    
+}
+
+nav {
+    float:right;
+    margin: 20px 80px 20px 20px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    font-family: 'Cabin', sans-serif;
+   letter-spacing: .5px;
+   margin: 20px; 
+}
+
+a {
+    color: black;
+    background-color: white;
+    text-decoration: none;
+    font-family: 'Cabin', sans-serif;
+   letter-spacing: .5px;
+   margin: 20px; 
+}
+
+button {
+    border-radius: 50%;
+    border: 1px;
+    background-color: transparent;
+    height: 60px;
+    width: 60px;
+    margin-top: 40px;
+    
+}
+
+main {
+    display: block;
+    margin-top: 200px;
+    text-align: center;
+    color: white;
+    
+}
+
+
+h1 {
+    font-size: 100px;
+    font-family: 'Cabin', sans-serif;
+}
+
+h2 {
+    line-height: 30px;
+    font-weight: 200;
+    font-size: 23px;
+}
+
+.top-h2 {
+    margin-top: 40px;
+}
+
+img {
+    height: 100%;
+    width: auto;
+}
