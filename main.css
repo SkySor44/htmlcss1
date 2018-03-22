@@ -28,14 +28,7 @@ a {
    margin: 20px; 
 }
 
-a {
-    color: black;
-    background-color: white;
-    text-decoration: none;
-    font-family: 'Cabin', sans-serif;
-   letter-spacing: .5px;
-   margin: 20px; 
-}
+
 
 button {
     border-radius: 50%;
